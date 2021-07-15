@@ -1,4 +1,5 @@
-## project2
+# project2
+By Jeremy, Hany, Sebs, and Willy
 
 machine learning attempt to incorporate a number of data sources to give a multi-month warning to traders to start derisking their portfolios in preparation for a broad market downturn
 
@@ -12,7 +13,7 @@ machine learning attempt to incorporate a number of data sources to give a multi
 # training data
         - DJIA index closing prices
 
-the model attempts to locate patterns commonly found in broad market downturns, identify when those are playing out in the present, and predict the likelihood of occurrence in the future
+The model attempts to locate patterns commonly found in broad market downturns, identify when those are playing out in the present, and predict the likelihood of occurrence in the future
 
 # Initial training criteria:
          - at least 5 periods worth of data for evaluation
