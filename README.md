@@ -18,3 +18,5 @@ the model attempts to locate patterns commonly found in broad market downturns, 
          - at least 5 periods worth of data for evaluation
          - >= 67% of previous periods meeting criteria for positive marking by program
          - correlational coefficient above .25 with at least 2 other datasets
+
+# MOASS is coming
